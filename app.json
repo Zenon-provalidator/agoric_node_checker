@@ -1,0 +1,9 @@
+{
+	"apps": [{
+		"name": "agoric_node_checker",
+		"script": "main.js",
+		"watch": false,
+		"env": {
+		}
+	}]
+}
